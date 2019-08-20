@@ -20,6 +20,8 @@ ps-petname takes three parameters:
 - Number of words to use in the name (default is 3)
 - Separator to use (default is "-")
 
+![Screenshot of PowerShell Window](https://github.com/BenjaminArmstrong/ps-petname/raw/master/Media/petname.png "Examples in use")
+
 ## petname builders
 
 There are two "builder" scripts.
