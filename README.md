@@ -30,6 +30,10 @@ petname-variable-builder.ps1 is a script that pulls the source data from Dustin'
 
 ps-petname-builder.ps1 creates the monolithic "ps-petname" that includes the database information in it as variables.  The posted version of ps-petname.ps1 uses the medium database.
 
+## To-do
+
+I really should turn this into a module - so that is on the backlog.  But if anyone wants to take a crack at it, contributions are welcome :-)
+
 ## Author
 
 This utility was created by Benjamin Armstrong, based on the original project by Dustin Kirkland
