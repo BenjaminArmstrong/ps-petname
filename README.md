@@ -19,11 +19,14 @@ As such, PetName tries to follow the tenets of Zooko’s triangle. Names are:
 ps-petname takes three parameters:
 - Number of words to use in the name (default is 3)
 - Separator to use (default is "-")
-- Whether to use the small, medium or large database (default is "large")
 
-## petname-builder
+## petname builders
 
-petname-builder.ps1 is a script that pulls the source data from Dustin's repo and then creates the "small", "medium" and "large" variable files that can be dotsourced in.
+There are two "builder" scripts.
+
+petname-variable-builder.ps1 is a script that pulls the source data from Dustin's repo and then creates the "small", "medium" and "large" variable files that can be dotsourced in.
+
+ps-petname-builder.ps1 creates the monolithic "ps-petname" that includes the database information in it as variables.  The posted version of ps-petname.ps1 uses the medium database.
 
 ## Author
 
