@@ -47,7 +47,7 @@ ps-petname-builder.ps1 creates the monolithic "ps-petname" that includes the dat
 
 ## To-do
 
-[x] I really should turn this into a module - so that is on the backlog.  But if anyone wants to take a crack at it, contributions are welcome :-)
+- [x] I really should turn this into a module - so that is on the backlog.  But if anyone wants to take a crack at it, contributions are welcome :-)
 
 ## Author
 
